@@ -46,7 +46,7 @@ export const navLinks = [
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "graphic design",
       icon: mobile,
     },
     {
